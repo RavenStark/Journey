@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+background-color: aqua;
+}
+
+
+.line{
+height:6px ;
+width: 150px;
+background-color: black;
+margin: 8px auto;}
+
+#apps{
+background-color: cadetblue;
+
+
+
+}
+
+
+body{
+ font-variant: small-caps;   
+}
+
+#MyCarousel{
+background-color: burlywood;
+
+
+}
+
+#MyCarousel img{
+margin-top: 25px;
+
+
+
+
+}
+
+
+.carousel-inner p
+{
+margin-top: 19.9px;
+color: sienna;
+font-size: 30.01px;
+
+
+}
+
+
+
